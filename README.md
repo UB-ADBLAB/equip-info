@@ -5,6 +5,7 @@ Server and workstation information
 ## List of servers and workstations
 
 | hostname | model | service tag |  location | root user | port | config |
+| ------------- | ------- | -------- | -------- | ------- | ----- | ------ |
 | arches | Dell PowerEdge R650 | BKB42G3 | Davis 339E | zzhao35 | 22/5522 | |
 | TBA | Dell PowerEdge R660 | | Davis 339E | zzhao35 |  | |
 | db01 | Dell Precision 3650 | 63LC0M3 | Davis 338I | zzhao35 | 3389 | |
