@@ -21,8 +21,8 @@ the server is now free to use.
 
 | hostname | model | service tag |  location | root user | port | config |
 | ------------- | ------- | -------- | -------- | ------- | ----- | ------ |
-| arches | Dell PowerEdge R650 | BKB42G3 | Davis 339E | zzhao35 | 22/5522 | Ubuntu 22.04 LTS <br>6330(2GHz,28C/56T) x2<br>32GBx16 DDR4-3200<br>P5800X 400GB, `/mnt/ssd1`<br> Samsung 870EVO 2TB `/mnt/ssd{2-4}`|
-| TBA | Dell PowerEdge R660 | | Davis 339E | zzhao35 |  | |
+| arches | Dell PowerEdge R650 | BKB42G3 | Davis 339E | zzhao35 | 22/5522 | Ubuntu 22.04 LTS <br>6330(2GHz,28C/56T) x2<br>DDR4-3200 32GBx16<br>P5800X 400GB, `/mnt/ssd1`<br> Samsung 870EVO 2TB `/mnt/ssd{2-4}`|
+| TBA | Dell PowerEdge R660 | | Davis 339E | zzhao35 |  | Ubuntu ?? <br> 8562Y+(2.8GHz,32C/64T)<br>DDR5-5600 32GBx16<br>TBD|
 | db01 | Dell Precision 3650 | 63LC0M3 | Davis 338I | zzhao35 | 3389 | |
 | db02 | Dell Precision 3650 |  | Davis 338Y | yunnanyu | 3389 | |
 | db03 | Dell Precision 3660 |  | Davis 338Y | cwang39 | 3389 | |
