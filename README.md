@@ -25,7 +25,7 @@ the server is now free to use.
 | TBA | Dell PowerEdge R660 | | Davis 339E | zzhao35 |  | - Ubuntu ?? <br>- 8562Y+(2.8GHz,32C/64T)<br>- DDR5-5600 32GBx16<br>- TBD|
 | db01 | Dell Precision 3650 | 63LC0M3 | Davis 338I | zzhao35 | 3389 | - Windows 10 <br>- i7-11700(2.5GHz,8C/16T)<br>- DDR4-3200 16GBx4<br>- SK Hynix PC711 512GB|
 | db02 | Dell Precision 3650 |  | Davis 338Y | yunnanyu | 3389 | |
-| db03 | Dell Precision 3660 |  | Davis 338Y | cwang39 | 3389 | |
+| db03 | Dell Precision 3660 |  | Davis 338Y | cwang39 | 3389 | - Windows 11 <br>- i9-12900(2.4GHz, 16C/24T)<br>- DDR5-3600 32GBx4<br>- 512GB NVMe M.2 SSD<br>Samsung 990 PRO???<br>- NVIDIA A4500, 20GB GDDR6|
 | dds03 | Dell Precision 3660 | | Davis 338Y | zimmerm3 | 22 | |
 
 FQDN is `<hostname>.cse.buffalo.edu`.
