@@ -13,9 +13,9 @@ to the mailing list above. Please try to make the annoucement ahead of time
 require changing system configurations, clearing I/O buffers, or rebooting the
 servers, please let people know at least one day ahead of time.
 
-As soon as you finish the jobs, please remove your entry from `booking.md` and
-commit. (Optional) feel free to send another email to let everyone know that
-the server is now free to use.
+(Optional) 
+If you finish the job early, feel free to send another email and/or update
+booking.md to let everyone know that the server is now free to use.
 
 ## List of servers and workstations
 
